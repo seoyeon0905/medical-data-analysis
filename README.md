@@ -47,11 +47,12 @@ MIMIC-III Demo 데이터는 전체 MIMIC-III 데이터의 축소판이지만,
 ---
 
 ## 4. 프로젝트 구조
-
+```
 mimic-readmission-analysis/
 ├─ data/ # MIMIC-III demo raw data
-├─ notebooks/ # 분석 노트북
+├─ notebooks/ # 분석 단계별 노트북
 └─ README.md
+```
 
 ---
 
